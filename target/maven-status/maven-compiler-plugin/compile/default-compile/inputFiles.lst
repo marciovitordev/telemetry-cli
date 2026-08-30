@@ -1,0 +1,9 @@
+/home/supermarcio/Documents/telemetry-cli/src/main/java/com/telemetria/Main.java
+/home/supermarcio/Documents/telemetry-cli/src/main/java/com/telemetria/cli/MenuCLI.java
+/home/supermarcio/Documents/telemetry-cli/src/main/java/com/telemetria/db/DatabaseManager.java
+/home/supermarcio/Documents/telemetry-cli/src/main/java/com/telemetria/db/TelemetriaRepository.java
+/home/supermarcio/Documents/telemetry-cli/src/main/java/com/telemetria/io/CsvImporter.java
+/home/supermarcio/Documents/telemetry-cli/src/main/java/com/telemetria/io/RelatorioExporter.java
+/home/supermarcio/Documents/telemetry-cli/src/main/java/com/telemetria/model/StatusRede.java
+/home/supermarcio/Documents/telemetry-cli/src/main/java/com/telemetria/model/TelemetryRecord.java
+/home/supermarcio/Documents/telemetry-cli/src/main/java/com/telemetria/service/TelemetriaService.java

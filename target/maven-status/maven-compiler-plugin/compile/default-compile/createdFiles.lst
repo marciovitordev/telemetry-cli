@@ -1,0 +1,9 @@
+com/telemetria/model/StatusRede.class
+com/telemetria/model/TelemetryRecord.class
+com/telemetria/db/TelemetriaRepository.class
+com/telemetria/db/DatabaseManager.class
+com/telemetria/cli/MenuCLI.class
+com/telemetria/Main.class
+com/telemetria/service/TelemetriaService.class
+com/telemetria/io/CsvImporter.class
+com/telemetria/io/RelatorioExporter.class
