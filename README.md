@@ -59,8 +59,7 @@ telemetry-cli/
 
 ## 🚀 Como executar
 
-Pré-requisitos: **JDK 17+** e **Maven**.
-Pré-requisitos: **JDK 17+** e **Maven**.
+requisitos: **JDK 17+** e **Maven**.
 
 ```bash
 git clone https://github.com/marciovitordev/telemetry-cli.git
