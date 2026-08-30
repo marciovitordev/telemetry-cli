@@ -63,7 +63,7 @@ Pré-requisitos: **JDK 17+** e **Maven**.
 Pré-requisitos: **JDK 17+** e **Maven**.
 
 ```bash
-git clone https://github.com/marciovitordev/telemetry-network-cli.git
+git clone https://github.com/marciovitordev/telemetry-cli.git
 cd telemetry-network-cli
 mvn clean package
 java -jar target/telemetry-cli-jar-with-dependencies.jar
