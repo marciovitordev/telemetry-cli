@@ -28,7 +28,7 @@ public class TelemetriaService {
 
     /**
      * Reconstroi a linha do tempo global ordenada por instante de coleta.
-     * TreeMap mantem as chaves (timestamp) sempre ordenadas automaticamente,
+     * TreeMap mantem as chaves sempre ordenadas automaticamente,
      * diferente de um HashMap onde a ordem seria imprevisivel.
      */
     public TreeMap<java.time.LocalDateTime, TelemetryRecord> linhaDoTempo(List<TelemetryRecord> registros) {
